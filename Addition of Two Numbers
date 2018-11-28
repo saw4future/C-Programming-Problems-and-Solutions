@@ -4,7 +4,7 @@ int main(){ //main function starts from here
   int a,b, sum;  //declaring the variables and data types
   
   printf("Enter two digits to add: "); // to get input of two digits 
-  scanf("%d%d, &a, &b");               //to take input of two digits  
+  scanf("%d%d", &a, &b);               //to take input of two digits  
   
   sum = a+b;  //Calculation process
   
